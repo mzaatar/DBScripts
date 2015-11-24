@@ -1,3 +1,3 @@
 # DBScripts
 
-Simply a repo to contain all my DB scripts and DB demos
+Simply a repo that contains my DB scripts and DB demos
